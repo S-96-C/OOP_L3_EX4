@@ -16,7 +16,7 @@ public class Main{
 		s3.setAddress("Badulla");
 
 		s1.getDetails();
-    s2.getDetails();
+    		s2.getDetails();
 		//System.out.println(s1.getDetails());
 		//System.out.println(s3.getDetails());
 		
